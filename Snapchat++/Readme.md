@@ -3,4 +3,6 @@
 
 **Changelog**
 
- - Fixed IPA conflicting with other IPAs. (See download links above)
+7/27/2017
+
+ - Re-uploaded to include new fixes

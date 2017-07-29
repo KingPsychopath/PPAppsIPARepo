@@ -1,6 +1,12 @@
 
 **[Downloads Links Here](https://github.com/JMccormick264/FacebookPP/releases)**
 
+**Changelog**
+
+7/28/2017
+
+ - Latest fixes for Sideloaded
+
 7/18/2017
 
  - Fixed the issue with Facebook++ COnflicting with other IPAs

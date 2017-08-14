@@ -3,6 +3,10 @@
 
 **Changelog**
 
+8/14/2017
+
+- Updated to App Version 10.34
+
 8/7/2017
 
  - Updated to App Version 10.33

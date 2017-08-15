@@ -1,6 +1,10 @@
 
 **[New Repo Link Here](https://github.com/JMccormick264/SnapPP/releases)**
 
+8/15/2017
+
+ - Updated Snapchat++ to App Version 10.15.0
+
 8/14/2017
 
  - Updated Snapchat++ to it's latest Tweak Version

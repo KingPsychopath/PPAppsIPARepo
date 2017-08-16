@@ -1,6 +1,8 @@
 
 **[New Repo Link Here](https://github.com/JMccormick264/SnapPP/releases)**
 
+**[Issue Repo Here](https://github.com/eni9889/SC-PP-ISSUES)**
+
 8/15/2017
 
  - Updated Snapchat++ to App Version 10.15.0

@@ -2,6 +2,10 @@ New [YouTube++ Repo Here](https://github.com/JMccormick264/YouTubePP)
 
 **Changelog**
 
+8/16/2017
+
+ - Updated YouTube++ to App Version 12.31
+
 8/14/2017
 
  - Updated YouTube++ to it's latest Tweak version

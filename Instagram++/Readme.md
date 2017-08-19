@@ -3,6 +3,11 @@
 
 **Changelog**
 
+8/18/2017
+
+- Updated to Tweak Version 1.8r-73
+
+
 8/14/2017 (New)
 
  - Updated Instagram++ to it's latest Tweak Version
@@ -18,18 +23,3 @@
 8/1/2017
 
  - Updated Instagram++ to App Version 10.32
-
-7/28/2017
-
- - Updated to include latest fixes for sideload
-
-7/27/2017
-
- - Re-uploaded to include new fixes
-
-7/25/2017
-
- - Updated Instagram++ to App Version 10.31
-
-7/19/2017
-  - Fixed IPA conflicting with other IPAs. See download page above

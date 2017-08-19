@@ -3,6 +3,14 @@
 
 **[Issue Repo Here](https://github.com/eni9889/SC-PP-ISSUES)**
 
+
+**Changelog**
+
+8/18/2017
+
+ - Updated to Tweak Version 1.6r-163
+
+
 8/15/2017
 
  - Updated Snapchat++ to App Version 10.15.0
@@ -14,8 +22,6 @@
 8/7/2017
 
  - Updated Snapchat++ to App Version 10.14.1
-
-**Changelog**
 
 7/28/2017
 

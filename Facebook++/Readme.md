@@ -3,6 +3,10 @@
 
 **Changelog**
 
+8/18/2017
+
+ - Updated to latest tweak version.
+
 7/28/2017
 
  - Latest fixes for Sideloaded
@@ -18,6 +22,3 @@
 5/23/2017
 
  - Updated Facebook to 93.0
-
-
-**[Facebook++ Version Links](https://mega.nz/#F!ukxklaSJ!jWOXJACJDSzdtgwWB-FuMA)**

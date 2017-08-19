@@ -3,6 +3,10 @@
 
 **Changelog**
 
+8/19/2017
+
+- Updated Phantom to App Version 10.15.1 and Tweak v2.2
+
 8/14/2017
 
 - Updated to App Version 10.14.1

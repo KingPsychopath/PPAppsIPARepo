@@ -3,6 +3,10 @@
 
 **Changelog**
 
+8/28/2017
+
+ - Updated to App Version 12.0
+
 8/18/2017
 
 - Updated to Tweak Version 1.8r-73
@@ -20,6 +24,6 @@
 
  - Updated to App Version 10.33
 
-8/1/2017
+ UnlimApp's Instagram++ IPA Page
 
- - Updated Instagram++ to App Version 10.32
+ Credits to Unlimapps for ppsideloader

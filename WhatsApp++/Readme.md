@@ -2,6 +2,10 @@
 
 **Changelog**
 
+9/6/2017
+
+ - Updated WhatsApp++ to App Version 2.17.52 and latest Tweak
+
 8/18/2017
 
  - Updated WhatsApp++ to it's latest Tweak Version.

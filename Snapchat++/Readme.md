@@ -3,11 +3,15 @@
 
 **[Issue Repo Here](https://github.com/eni9889/SC-PP-ISSUES)**
 
-9/6/2017
-
- - Updated Snapchat++ to App Version 10.16.1 and latest Tweak
-
 **Changelog**
+
+9/15/2017
+
+ - Updated Snapchat++ to App Version 10.17.1
+
+ 9/6/2017
+
+  - Updated Snapchat++ to App Version 10.16.1 and latest Tweak
 
 8/30/2017
 
@@ -26,13 +30,6 @@
 
  - Updated Snapchat++ to it's latest Tweak Version
 
-8/7/2017
-
- - Updated Snapchat++ to App Version 10.14.1
-
-7/28/2017
-
- - Updated to include latest fixes for sideload
 
 7/27/2017
 

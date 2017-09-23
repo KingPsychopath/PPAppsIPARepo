@@ -2,6 +2,10 @@ New [YouTube++ Repo Here](https://github.com/JMccormick264/YouTubePP)
 
 **Changelog**
 
+9/23/2017
+
+ - Fixed the IPA so they match their IPA names.
+
 9/21/2017
 
  - Updated YouTube++ to Latest App and Tweak Versions

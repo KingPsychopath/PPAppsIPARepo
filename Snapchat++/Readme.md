@@ -5,6 +5,11 @@
 
 **Changelog**
 
+9/23/2017
+
+ - Fixed the IPA so they match their IPA names.
+ - Updated Snapchat++ to App Version 10.17.6
+
 9/21/2017
 
  - Updated Snapchat++ to Latest App and Tweak Versions

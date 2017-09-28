@@ -5,6 +5,10 @@
 
 **Changelog**
 
+9/28/2017
+
+ - Updated Snapchat++ to App Version 10.18.1 and Tweak v2.4
+
 9/23/2017
 
  - Fixed the IPA so they match their IPA names.
@@ -26,20 +30,8 @@
 
  - Updated Snapchat++ to App Version 10.16.0
 
-8/18/2017
 
- - Updated to Tweak Version 1.6r-163
+Crefits:
 
-
-8/15/2017
-
- - Updated Snapchat++ to App Version 10.15.0
-
-8/14/2017
-
- - Updated Snapchat++ to it's latest Tweak Version
-
-
-7/27/2017
-
- - Re-uploaded to include new fixes
+Me for making the tweak into an IPA
+Unlimapps for making the tweak and ppsideloader

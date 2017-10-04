@@ -1,6 +1,11 @@
-New [YouTube++ Repo Here](https://github.com/JMccormick264/YouTubePP)
+**[YouTube++ Repo Here](https://github.com/JMccormick264/YouTubePP)**
+**[Issue Repo Here](https://github.com/eni9889/YT-PP-Issues)**
 
 **Changelog**
+
+10/3/2017
+
+ - Updated YouTube++ to App Version 12.38
 
 9/23/2017
 
@@ -34,3 +39,6 @@ New [YouTube++ Repo Here](https://github.com/JMccormick264/YouTubePP)
 7/27/2017
 
  - Re-uploaded to include new fixes
+
+ Credits to Unlimapps for ppsideloader
+ And me for making the Tweaks into IPAs

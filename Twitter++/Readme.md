@@ -4,6 +4,10 @@
 
 **Changelog**
 
+7/17/2017
+
+ - Updated To App Store Version 7.12
+
 11/14/2017
 
  - Updated to App Version 7.11.1 and Tweak 1.2r-70

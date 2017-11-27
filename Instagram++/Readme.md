@@ -4,7 +4,12 @@
 
 **Changelog**
 
- 10/30/2017
+11/27/2017
+
+ - Updated to App Version 24.0
+ - Updated to Tweak 1.8r-99
+
+10/30/2017
 
   - Updated to App Version 21.0
   - Updated to latest Tweak Version

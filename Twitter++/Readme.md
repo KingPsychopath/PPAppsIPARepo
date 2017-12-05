@@ -6,7 +6,7 @@
 
 11/29/2017
 
- - Updated to App Version 7.12.1
+ - Updated to App Version 7.12.1 
 
 11/27/2017
 

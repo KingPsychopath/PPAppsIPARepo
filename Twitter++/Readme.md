@@ -4,9 +4,13 @@
 
 **Changelog**
 
+12/8/2017
+
+ - Updated Twitter++ to App Version 7.13.1
+
 11/29/2017
 
- - Updated to App Version 7.12.1 
+ - Updated to App Version 7.12.1
 
 11/27/2017
 

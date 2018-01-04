@@ -3,6 +3,10 @@
 
 **Changelog**
 
+1/3/2017
+
+ - Updated to App Version 12.49
+
 12/10/2017
 
  - Updated YouTube++ to App Version 12.47.16
@@ -31,7 +35,6 @@
 10/16/2017
 
  - Updated to App Version 12.40 and latest tweak
-
 
  Credits to Unlimapps for ppsideloader and making the tweaks
  And me for making the Tweaks into IPAs

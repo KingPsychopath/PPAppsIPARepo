@@ -2,6 +2,10 @@
 
 **Changelog**
 
+1/7/2017
+
+ - Updated WhatsApp++, Watusi and WhatsPad++ to App Version 2.17.82
+
 10/30/2017
 
  - Updated WhatsAp++ to App Version 2.17.71

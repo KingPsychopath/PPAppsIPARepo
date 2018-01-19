@@ -4,6 +4,10 @@
 
 **Changelog**
 
+1/19/2018
+
+ - Updated Twitter++ to App Version 7.15
+
 12/8/2017
 
  - Updated Twitter++ to App Version 7.13.1
@@ -24,17 +28,6 @@
 
  - Updated to App Version 7.11.1 and Tweak 1.2r-70
 
-11/6/2017
-
- - Updated Twitter++ to App Version 7.11
-
-10/23/2017
-
- - Updated Twitter++ to App Version 7.10
-
-10/11/2017
-
- - Updated Twitter++ to App Version 7.9
 
 Credits:
 Me for making the tweak into a IPA

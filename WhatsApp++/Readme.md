@@ -4,6 +4,10 @@
 
 **Changelog**
 
+2/16/2017
+
+ - Updated WhatsApp++ to App Version 2.18.22
+
 1/30/2017
 
  - Updated WhatsApp++ to App Version 2.18.20

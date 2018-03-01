@@ -4,6 +4,10 @@
 
 **Changelog**
 
+3/1/2018
+
+ - Updated to App Version 2.18.30
+
 2/16/2017
 
  - Updated WhatsApp++ to App Version 2.18.22
@@ -32,16 +36,5 @@
  - Updated WhatsApp W/ Watusi to App Version 2.17.70
  - Updated WhatPad++ to App Version 2.17.70
 
-10/13/2017
-
- - Updated WhatsApp++ to App Version 2.17.61
- - Updated WhatsPad++ to App Version 2.17.61
- - Updated WhatsPad w/ Watusi to App Version 2.17.61
-
-10/9/2017
-
- - Updated to App Version 2.17.60
-
-9/23/2017
-
- - Fixed the IPA so they match their IPA names.
+ Credits to Unlimapps for ppsideloader and making the tweaks
+ And me for making the Tweaks into IPAs

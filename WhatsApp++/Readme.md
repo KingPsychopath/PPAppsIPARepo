@@ -4,6 +4,10 @@
 
 **Changelog**
 
+3/14/2018
+
+ - Updated WhatsApp++ to App Version 3.18.31
+
 3/1/2018
 
  - Updated to App Version 2.18.30

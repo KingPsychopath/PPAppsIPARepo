@@ -4,6 +4,10 @@
 
 **Changelog**
 
+4/4/2018
+
+ - Updated Twitter++ to App Version 7.20.2
+
 4/2/2018
 
  - Updated Twitter++ to App Version 7.20.1
@@ -27,26 +31,6 @@
 1/19/2018
 
  - Updated Twitter++ to App Version 7.15
-
-12/8/2017
-
- - Updated Twitter++ to App Version 7.13.1
-
-11/29/2017
-
- - Updated to App Version 7.12.1
-
-11/27/2017
-
- - Updated to Tweak 1.2r-70
-
-7/17/2017
-
- - Updated To App Store Version 7.12
-
-11/14/2017
-
- - Updated to App Version 7.11.1 and Tweak 1.2r-70
 
 
 Credits:

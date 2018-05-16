@@ -6,6 +6,10 @@
 
 5/6/2018
 
+ - Updated WhatsApp++ to App Version 2.18.52
+
+5/6/2018
+
  - Updated WhatsApp++ to App Version 2.18.51
 
 4/8/2018

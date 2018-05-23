@@ -1,8 +1,14 @@
-**New Repo [Link Here](https://github.com/JMccormick264/WhatsAppPP)**
+**New Repo: [Link Here](https://github.com/JMccormick264/WhatsAppPP)**
 
-**Watusi Repo [Link Here](https://github.com/FouadRaheb/Watusi-for-WhatsApp)**
+**Watusi Repo: [Link Here](https://github.com/FouadRaheb/Watusi-for-WhatsApp)**
+
+**WhatsApp++ Issue Link: [Link Here](https://github.com/eni9889/WA-PP-Issues)**
 
 **Changelog**
+
+5/23/2018
+
+ - Updated WhatsApp++ to App Version 2.18.60
 
 5/6/2018
 

@@ -6,6 +6,11 @@
 
 **Changelog**
 
+7/1/2018
+
+ - Updated WhatsApp++ to App Version: 2.18.70
+ - Updated WhatsApp++ to Tweak Version: 1.6r-94
+
 5/23/2018
 
  - Updated WhatsApp++ to App Version 2.18.60

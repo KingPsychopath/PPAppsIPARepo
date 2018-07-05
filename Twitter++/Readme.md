@@ -4,6 +4,10 @@
 
 **Changelog**
 
+7/5/2018
+
+ - Updated Twitter++ to App Version: 7.27
+
 7/1/2018
 
  - Updated Twitter++ to App Version: 7.26.1
@@ -20,23 +24,7 @@
 
  - Updated Twitter++ to App Version: 7.23.3
 
-5/11/2018
 
- - Updated Twitter++ to App Version: 7.23.2
-
-4/28/2018
-
- - Updated Twitter++ to App Version 7.22.3
-
-4/12/2018
-
- -  Updated Twitter++ to App Version 7.21.1
-
-4/4/2018
-
- - Updated Twitter++ to App Version 7.20.2
-
-
- Credits:
- UnlimApps for making ppsideloader and the ++ tweak
- Me for making the tweak into a IPA
+Credits:
+UnlimApps for making ppsideloader and the ++ tweak
+Me for making the tweak into a IPA

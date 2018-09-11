@@ -6,6 +6,10 @@
 
 **Changelog**
 
+9/11/2018
+
+ - Updated WhatsApp++ to App Version: v2.18.91
+
 9/6/2018
 
  - Updated WhatsApp++ to App Version: v2.18.90
@@ -35,7 +39,6 @@
 5/6/2018
 
  - Updated WhatsApp++ to App Version 2.18.52
-
 
  Credits to Unlimapps for ppsideloader and making the tweaks
  And me for making the Tweaks into IPAs

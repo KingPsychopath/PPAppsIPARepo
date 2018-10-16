@@ -4,6 +4,11 @@
 
 **Changelog**
 
+10/16/2018
+
+ - Updated Twitter++ to App Version: v7.34
+ - Updated Twitter++ to latest Tweak version
+
 10/5/2018
 
  - Updated Twitter++ to App Version: v7.33

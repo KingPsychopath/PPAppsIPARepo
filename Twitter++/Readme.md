@@ -1,8 +1,14 @@
-**New [Twitter++ Repo Here](https://github.com/JMccormick264/TwitterPP)
+**New [Twitter++ Repo Here](https://github.com/JMccormick264/TwitterPP/releases)
 
 **[Issue Repo Here](https://github.com/eni9889/TW-PP-Issues)**
 
+**[Changelog for Twitter++](https://beta.unlimapps.com/changes/com.unlimapps.twitterpp)**
+
 **Changelog**
+
+10/22/2018
+
+ - Updated Twitter++ to Tweak version: 1.2r80
 
 10/16/2018
 
@@ -21,26 +27,8 @@
 
  - Updated Twitter++ to App Version: v7.31.2
 
-9/6/2018
-
- - Updated Twitter++ to App Version: v7.31.1
-
-8/23/2018
-
- - Updated Twitter++ to App Version: v7.30
-
-8/12/2018
-
- - Updated Twitter++ to App Version: 7.29.1
-
-7/24/2018
-
- - Updated Twitter++ to App Version: 7.28.2
-
-7/17/2018
-
- - Updated Twitter++ to App Version: v7.28
-
 Credits:
+
 UnlimApps for making ppsideloader and the ++ tweak
-Me for making the tweak into a IPA
+
+Me for making the sideloaded tweak into a IPA

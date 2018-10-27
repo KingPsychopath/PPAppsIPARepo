@@ -6,6 +6,10 @@
 
 **Changelog**
 
+10/27/2018
+
+ - Updated Twitter++ to sideload Tweak version: 1.2r-82
+
 10/22/2018
 
  - Updated Twitter++ to Tweak version: 1.2r-80

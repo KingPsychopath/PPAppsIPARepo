@@ -3,35 +3,37 @@
 
 **[Issue Repo Here](https://github.com/eni9889/IG-PP-Issues)**
 
-**[Change Log for Tweak Updates Here](https://beta.unlimapps.com/changes/com.unlimapps.gramplus)**
+**[Changelog for Instagram++](https://beta.unlimapps.com/changes/com.unlimapps.gramplus)**
 
 **Changelog**
 
-7/24/2018
+10/26/2018
 
- - Updated Instagram++ to App Version: v55.0
+ - Updated Instagram++ to App Version 67.0 (latest version that the tweak is compatible with)
+ - Updated Instagram++ to tweak version 1.8r-194
+ - Changelog [here.](https://beta.unlimapps.com/changes/com.unlimapps.gramplus) Sideload applies up to r-194 at this time.
 
-7/17/2018
+ - **Note Reposting and ReGram does NOT work at the moment. Waiting for the fix to be pushed to sideload.**
 
- - Updated Instagram++ to App Version: v54.0
+10/16/2018
 
-7/9/2018
+ - Updated Twitter++ to App Version: v7.34
+ - Updated Twitter++ to latest Tweak version
 
- - Updated Instagram++ to App Version: v53.0
- - Updated Instagram++ to Tweak Version: 1.8r-162
+10/5/2018
 
-7/7/2018
+ - Updated Twitter++ to App Version: v7.33
 
- - Updated Instagram++ to Tweak Version: 1.8r-161
+9/21/2018
 
-7/6/2018
+ - Updated Twitter++ to App Version: v7.32.1
 
-- Updated Instagram++ to App Version: v52.0
-- Updated Instagram++ to Tweak version: v1.8r-159
+9/11/2018
 
-12/22/2017
+ - Updated Twitter++ to App Version: v7.31.2
 
- - Updated Instagram to App Version v27.0
+Credits:
 
- Credits to Unlimapps for ppsideloader
- And me for making the Tweaks into IPAs
+UnlimApps for making ppsideloader and the ++ tweak
+
+Me for making the sideloaded tweak into a IPA

@@ -6,6 +6,10 @@
 
 **Changelog**
 
+10/29/2018
+
+ - Updated Twitter++ to App Version: v7.35
+
 10/27/2018
 
  - Updated Twitter++ to sideload Tweak version: 1.2r-82

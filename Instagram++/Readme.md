@@ -7,6 +7,11 @@
 
 **Changelog**
 
+11/9/2018
+
+ - Updated Instagram++ to App Version: 70.1
+ - Updated Instagram++ to Tweak version: v1.8r-207, and uasharedtools: v2.2r-70
+
 11/2/2018
 
  - Updated Instagram++ to App Version: v69.0

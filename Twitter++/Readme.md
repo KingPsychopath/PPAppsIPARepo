@@ -6,6 +6,11 @@
 
 **Changelog**
 
+11/15/2018
+
+  - Updated Twitter++ to uasharedtools version: v2.2r-70
+  - Updated Twitter++ to App Version: v7.36
+
 11/9/2018
 
  - Updated Twitter++ to uasharedtools version: v2.2r-70

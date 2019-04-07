@@ -6,6 +6,10 @@
 
 **Changelog**
 
+4/7/2019
+
+ - Updated Twitter++ to App Version: v7.46
+
 3/31/2019
 
  - Updated Twitter++ to App Version: v7.45
